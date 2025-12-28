@@ -1,0 +1,20 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.conteiner {
+    width: 700px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: rgb(102, 102, 150);
+}
+
+
+.title {
+    text-align: center;
+    font-size: 35px;
+}
+
+.content {
+    font-size: 25px;
+}
